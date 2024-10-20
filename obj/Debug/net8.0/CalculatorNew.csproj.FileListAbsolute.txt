@@ -1,0 +1,15 @@
+C:\HjemmeKode\C-Sharp\C-Sharp\CalculatorNew\bin\Debug\net8.0\CalculatorNew.exe
+C:\HjemmeKode\C-Sharp\C-Sharp\CalculatorNew\bin\Debug\net8.0\CalculatorNew.deps.json
+C:\HjemmeKode\C-Sharp\C-Sharp\CalculatorNew\bin\Debug\net8.0\CalculatorNew.runtimeconfig.json
+C:\HjemmeKode\C-Sharp\C-Sharp\CalculatorNew\bin\Debug\net8.0\CalculatorNew.dll
+C:\HjemmeKode\C-Sharp\C-Sharp\CalculatorNew\bin\Debug\net8.0\CalculatorNew.pdb
+C:\HjemmeKode\C-Sharp\C-Sharp\CalculatorNew\obj\Debug\net8.0\CalculatorNew.GeneratedMSBuildEditorConfig.editorconfig
+C:\HjemmeKode\C-Sharp\C-Sharp\CalculatorNew\obj\Debug\net8.0\CalculatorNew.AssemblyInfoInputs.cache
+C:\HjemmeKode\C-Sharp\C-Sharp\CalculatorNew\obj\Debug\net8.0\CalculatorNew.AssemblyInfo.cs
+C:\HjemmeKode\C-Sharp\C-Sharp\CalculatorNew\obj\Debug\net8.0\CalculatorNew.csproj.CoreCompileInputs.cache
+C:\HjemmeKode\C-Sharp\C-Sharp\CalculatorNew\obj\Debug\net8.0\CalculatorNew.sourcelink.json
+C:\HjemmeKode\C-Sharp\C-Sharp\CalculatorNew\obj\Debug\net8.0\CalculatorNew.dll
+C:\HjemmeKode\C-Sharp\C-Sharp\CalculatorNew\obj\Debug\net8.0\refint\CalculatorNew.dll
+C:\HjemmeKode\C-Sharp\C-Sharp\CalculatorNew\obj\Debug\net8.0\CalculatorNew.pdb
+C:\HjemmeKode\C-Sharp\C-Sharp\CalculatorNew\obj\Debug\net8.0\CalculatorNew.genruntimeconfig.cache
+C:\HjemmeKode\C-Sharp\C-Sharp\CalculatorNew\obj\Debug\net8.0\ref\CalculatorNew.dll
